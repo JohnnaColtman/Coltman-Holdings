@@ -1,0 +1,394 @@
+body
+{
+margin:0px;
+font-family:'Bahnschrift';
+background-color:#F7EDDD;
+}
+#container
+{    
+    justify-content: center;    
+    background-color: #F7EDDD;
+    width:700px;
+    height:850px;
+    margin: 0% auto;
+    border-radius: 10%;
+}
+#Background
+{
+    height:500px;
+    width:100%;
+}
+#Top
+{
+    font-family:'Bahnschrift';
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    background-color:transparent;
+    height: 50px;  
+    width: auto;  
+    justify-content: center;  
+    margin:15px auto;
+     
+    
+}
+#LogL
+{
+    justify-content: center;
+    text-align: center;
+    display:flex;
+    height:20px;
+    background-color: white;
+   
+  
+
+}
+#LogL ul
+{
+    justify-content: center;
+    text-align: center;
+    display:flex;
+ 
+}
+#LogL li{
+    
+ list-style-type: none;
+ 
+ margin:2% auto;
+ 
+}
+#LogL ul:hover
+{
+    
+  background-color:#F7EDDD ;
+    
+   }
+
+#List
+{
+    height:70px;
+    background-color:white;
+    
+}
+#List ul
+{
+    justify-content: center;
+    text-align: center;
+    display:flex;
+    
+}
+#List li
+{
+ margin-left: 110px;
+ list-style-type: none;
+ margin-right: 70px;
+ margin:2% auto;
+ 
+
+}
+#containers
+{    
+    justify-content: center;    
+    background-color: #F7EDDD;
+    width:700px;
+    height:1100px;
+    margin: 0% auto;
+    border-radius: 10%;
+}
+#heading
+{
+    font-family: 'Bahnschrift';   
+    font-size: 25px;     
+    justify-content:center;
+    align-items: center;
+    margin:3% auto;
+    text-align: center;
+}
+
+#phead
+{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    font-family:'Bahnschrift';
+    font-size:25px;
+}
+#Signup
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;    
+    font-size:12px;
+    height:70px;
+    color:red;
+    margin:5% auto;
+    text-align: end;
+    background-color: white;
+    width:300px;
+    border-radius: 25px;
+
+}
+#Signup:hover
+{
+background-color: #F4E3CB;
+
+}
+#Login
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10% auto;
+    font-family:'Bahnschrift';
+    font-size:12px;
+    background-color:white ;
+    width:300px;
+    border-radius: 25px;
+    height: 70px;
+}
+#Login:hover
+{
+    background-color: #F4E3CB;
+}
+#uname
+{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
+#pword
+{
+    margin:5% auto;
+    
+}
+input
+{
+width:300px;
+background-color:white;
+border:none;
+height:50px;
+justify-content: center;
+align-items: center;
+display:flex;
+margin:auto;
+
+}
+
+#Submit
+{
+    width:100px;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    margin:auto;
+    background-color:black;
+    stroke:2px solid white;
+    font-family:'Bahnschrift';
+   
+}
+#Aboutus
+{
+    text-align: center;
+    font-family:'Bahnschrift';
+    margin-left: 30px;
+    
+}
+#AboutusP
+{ 
+    font-family:'Bahnschrift';
+    margin-left: 30px;
+    
+
+}
+
+
+#OI ul
+{
+    justify-content: center;
+    text-align: center;
+    display:flex;
+    height:20px;
+    background-color: white;
+    
+}
+#OI li
+{
+ margin-left: 110px;
+ list-style-type: none;
+ margin-right: 70px;
+ margin:2% auto;
+}
+
+#OI2 ul
+{
+    justify-content: center;
+    text-align: center;
+    display:flex;
+    height:20px;
+    
+    
+}
+#OI2 li
+{
+ margin-left: 110px;
+ list-style-type: none;
+ margin-right: 70px;
+ margin:2% auto;
+}
+
+#paragraph
+{
+    margin:450px auto;
+}
+
+#PropContainer
+{
+    justify-content: center;    
+    background-color: #F4E3CB;
+    width:800px;
+    height:800px;
+    margin: 0% auto;
+    border-radius: 10%;
+}
+
+#PropText
+{
+    margin: 15% auto;
+    margin-left:50px;
+    text-align: center;
+    font-size:30px;    
+    font-family: 'Bahnschrift';
+}
+#PropTextBtn
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10% auto;
+    font-family:'Bahnschrift';
+    font-size:12px;
+    background-color:white ;
+    width:200px;
+    border-radius: 25px;
+    height: 50px;
+    margin:150px auto;
+    
+}
+#PropTextBtn:hover
+{
+    background-color:#F7EDDD;
+}
+#Block1
+{
+    background-color:#F4E3CB ;
+    height:600px;
+    width:400px;
+    border-radius: 30px;
+    margin-left: 5px;    
+    margin-top: 30% auto;
+    
+}
+#Block2
+{
+    background-color:#F4E3CB ;
+    height:600px;
+    width:400px;    
+    border-radius: 25px;       
+    margin:-47.7% 870px;
+}
+
+
+#Block4
+{
+    justify-content: center;
+    background-color:#F4E3CB;
+    height:700px;
+    width:400px;   
+    border-radius: 25px;
+    margin-left:450px;
+   
+
+}
+#Bottom
+{
+    background-color: white;
+    height:100px;
+    margin-top:50px;
+    
+}
+#Block1text
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Bahnschrift';
+    font-size:12px;
+    background-color:white ;
+    width:200px;
+    border-radius: 25px;
+    height: 70px;
+    margin:150px auto;
+}
+#Block1text:hover{
+    background-color: #F7EDDD;
+}
+#Block2text
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10% auto;
+    font-family:'Bahnschrift';
+    font-size:12px;
+    background-color:white ;
+    width:200px;
+    border-radius: 25px;
+    height: 70px;
+    margin:-80px auto;
+
+    
+}
+#Block2text:hover{
+    background-color: #F7EDDD;
+}
+.slideshow-container {
+    max-width: 800px; 
+    margin: 0 auto;
+    overflow: hidden;
+    text-align: center;
+}
+
+
+.mySlides {
+    display: none;
+}
+
+.mySlides img {
+    height: 300px;
+    width: 200px;
+    margin:15% auto;
+    border-radius: 15px;
+}
+
+#details
+{
+    font-size:30px;
+}
+#form
+{
+    margin:30% auto;
+}
+#logf
+{
+    justify-content: center;    
+    background-color: #F7EDDD;
+    width:700px;
+    height:300px;
+    margin: 0% auto;
+    border-radius: 10%;
+}
